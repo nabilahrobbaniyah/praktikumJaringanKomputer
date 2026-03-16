@@ -9,5 +9,5 @@ mempelajari kekurangan http di bagian keamanan
 
 ## lampiran
 hasil percobaan:
-![tampilan filter http wireshark](../assets/week3/image3.4.1.png)
-username dan password tidak di-enkripsi, sehingga mudah terbaca (tidak aman)
+![tampilan filter http wireshark](../assets/week3/image3.5.png)
+di bagian credentials, username dan password tidak di-enkripsi, sehingga mudah terbaca (tidak aman)
