@@ -1,1 +1,10 @@
 tracing dns
+![tampilan wireshark](../assets/week4/image4.3.1.png)
+![tampilan wireshark](../assets/week4/image4.3.2.png)
+![tampilan wireshark](../assets/week4/image4.3.3.png)
+![tampilan wireshark](../assets/week4/image4.3.4.png)
+![tampilan wireshark](../assets/week4/image4.3.5.png)
+![tampilan wireshark](../assets/week4/image4.3.6.png)
+![tampilan wireshark](../assets/week4/image4.3.7.png)
+![tampilan wireshark](../assets/week4/image4.3.8.png)
+![tampilan wireshark](../assets/week4/image4.3.9.png)
